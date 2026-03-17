@@ -1,0 +1,44 @@
+{
+  "info": {
+    "_postman_id": "e864bea3-74d9-45b2-b2d3-42fe40de7b3b",
+    "name": "New API Test",
+    "description": "Här lära jag mif hur postman fungerar",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "50190506",
+    "_collection_link": "https://go.postman.co/collection/50190506-e864bea3-74d9-45b2-b2d3-42fe40de7b3b?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get All Bookings",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Booking by ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Delete Booking",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
