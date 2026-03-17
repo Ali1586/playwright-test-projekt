@@ -16,7 +16,7 @@ def test_successful_login(page):
     """Test login med giltiga uppgifter"""
     page.goto("https://www.saucedemo.com/")
     
-    # Fylla email-fält
+    # Fylla email-fält#
     page.fill("#user-name", "standard_user")
     
     # Fylla password-fält
